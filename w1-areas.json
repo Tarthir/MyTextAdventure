@@ -1,0 +1,141 @@
+{"areas":[{
+  "id": "original_bedroom",
+  "name": "Your Bedroom",
+  "description": "This is your bedroom, obviously. There's a comfortable looking bed.",
+  "itemIds": ["hidden_rock", "nightstand", "television", "bedroom_letter", "bed"],
+  "enemyIds": []
+},
+  {
+    "id": "original_kitchen",
+    "name": "Your Kitchen",
+    "description": "This is your kitchen, obviously. In front of you sits a well-crafted wooden table with four matching chairs. An oven and sink take up part of your counters.",
+    "itemIds": ["fridge", "cupboard", "oven", "kitchen_letter", "apple", "casserole", "drink"],
+    "enemyIds": []
+  },
+  {
+    "id": "original_entryway",
+    "name": "Your Entryway",
+    "description": "This is your entryway, obviously. A long, thin table rests against the wall between two wooden doors. On the table sits a vase with flowers and some books stacked in an artful manner. By the door, an iron sword and an iron shield dangle from wall-mounted key hooks.",
+    "itemIds": ["normal_books", "vase", "sword", "shield"],
+    "enemyIds": []
+  },
+  {
+    "id": "yard",
+    "name": "Your Yard",
+    "description": "Your yard is a well maintained grassy clearing, surrounded by a very dense forest. The border between your yard and the forest is marked by thick vines, thorny bushes, and trees that rise far into the sky. An outhouse stands to the side of the clearing, a short distance from what seems to be the remains of a house where your home once stood.",
+    "itemIds": ["hidden_outhouse_key", "outhouse", "house"],
+    "enemyIds": []
+  },
+  {
+    "id": "ruined_entryway",
+    "name": "Ruined Entryway",
+    "description": "What appears to have been your entryway is now a ruined mess. Along the wall is a broken table resting next to a pile of withered, rotting books.",
+    "itemIds": ["damaged_books", "hidden_books_note"],
+    "enemyIds": []
+  },
+  {
+    "id": "ruined_bedroom",
+    "name": "Ruined Bedroom",
+    "description": "The furniture in here are in shambles. The bed, which has collapsed, is moldy and extremely discolored. A shattered plasma tv rests in a pile of screen shards. Someone didn't install that properly.",
+    "itemIds": ["skeleton"],
+    "enemyIds": []
+  },
+  {
+    "id": "ruined_kitchen",
+    "name": "Ruined Kitchen",
+    "description": " A heap of wood that appears to have been a table and chairs has settled in one corner of the room. Several cupboards have collapsed from the wall onto the ground, others have lost parts of their framework to time. The ones you can see inside appear to have all been completely empty. However, each of them is entirely covered by scratch marks on the inside, and stained in a blackened substance. What really captures your attention in the room is some kind of art installation on the floor. A large and detailed circular drawing surrounds what appears to be a fresh energy drink.",
+    "itemIds": ["drawing", "drink", "mush"],
+    "enemyIds": []
+  },
+  {
+    "id": "crow_nest",
+    "name": "Crow's Nest",
+    "description": "The crows have all disappeared. It’s quiet again, but you feel at ease this time. The place reeks, fresh crow droppings litter the floor. Let’s get out of here.",
+    "itemIds": [],
+    "enemyIds": ["crow"]
+  },
+  {
+    "id": "quarrel",
+    "name": "The Quarrel",
+    "description": "Standing in the center of the clearing is shoddily put together fingerpost. The sign pointing south reads \"Kite-Eating Tree\". The sign pointing east says \"A lotta hoopla\".",
+    "itemIds": ["lamppost"],
+    "enemyIds": []
+  },
+  {
+    "id": "hill",
+    "name": "The Hill",
+    "description": "The entire clearing appears to be a hill. The surrounding forested area appears to be entirely flat, but the land immediately begins to slope starting along the whole border. At least, for as long as you can see. The hill rises steadily, to a height of perhaps a hundred or so feet. You're reminded of college for a brief moment. Why? Where did I go to college anyway?",
+    "itemIds": [],
+    "enemyIds": []
+  },
+  {
+    "id": "hill_interior",
+    "name": "Inside the Hill",
+    "description": "This room is vast. The entire hill appears to be hollow. The walls and flooring are fully lined with aged, grey brick. The staircase continued so far down that no sunlight has reached the bottom, and you do not see any other light sources. Despite this, you can see clearly. While that is a nice surprise, there isn't really anything to see. Dangling from the ceiling, far above your head, appear to be some cages, perhaps large enough to fit a human. Nothing intrigues you about this room.",
+    "itemIds": ["cages"],
+    "enemyIds": []
+  },
+  {
+    "id": "goblin_hideout",
+    "name": "Goblin Hideout",
+    "description": "Now, three bodies litter the floor of this room. Some cards are laid on the table, others scattered around the floor.",
+    "itemIds": ["markings", "cards", "fabric"],
+    "enemyIds": ["goblin"]
+  },
+  {
+    "id": "goblin_cache",
+    "name": "Goblin Cache",
+    "description": "Junk is scattered across the floor. It's hard to walk without stepping on a different piece of useless scrap.",
+    "itemIds": ["junk_pile"],
+    "enemyIds": []
+  },
+  {
+    "id": "great_tree",
+    "name": "Great Tree",
+    "description": "An imposing tree rises far above you, even higher than the surrounding forest. Large, sturdy branches jut out every which way, from the bottom to the tip top. What a pleasant tree. Closely behind it, two paths fork to the southwest and the southeast.",
+    "itemIds": ["tree"],
+    "enemyIds": []
+  },
+  {
+    "id": "private_affairs",
+    "name": "Private Affairs",
+    "description": "The elk certainly are a contentious people. Still, their handiwork in chairs of root is something to be commended. Neat!",
+    "itemIds": ["root_chair"],
+    "enemyIds": ["elk"]
+  },
+  {
+    "id": "shrine_entrance",
+    "name": "Shrine Entrance",
+    "description": "The clearing appears to be perfectly circular. A large basin of water is planted in the center, formed by thick, interweaved vines. The body of the pixie has turned to dust.",
+    "itemIds": ["basin"],
+    "enemyIds": ["pixie"]
+  },
+  {
+    "id": "grassy_overlook",
+    "name": "Grassy Overlook",
+    "description": "The ground begins to level out again, and you find yourself wanting to rest. The path leading back down is to the west, and the path that continues up is to the south. A rare break in the surrounding thicket allows you to examine the forest beneath you. It's rather repetitive, but the unending sea of trees and the vibrant colors of nature calm you nonetheless. You lay on the ground, and are slightly less calm. Dark billows roll along the sky high above you. Smoke?",
+    "itemIds": [],
+    "enemyIds": []
+  },
+  {
+    "id": "vine_cocoons",
+    "name": "Cocoon Clearing",
+    "description": "You smack your head against something and look up. Strange tangles of vine in varying sizes dangle from the canopy above you, like cocoons. The canopy is thick, but you can tell the sky is dark with smoke.",
+    "itemIds": ["tangles"],
+    "enemyIds": []
+  },
+  {
+    "id": "shrine_base",
+    "name": "Base of the Shrine",
+    "description": "After hours of traversing the woods, the ground begins to level again. The air is getting hard to breathe.",
+    "itemIds": [],
+    "enemyIds": []
+  },
+  {
+    "id": "shrine",
+    "name": "Shrine",
+    "description": "You are alone once more, surrounded by charred trees and shrubbery. The lone remnant of the shrine is a strange orb, floating in place. It calls to you, begs for you.",
+    "itemIds": [],
+    "enemyIds": ["mound"]
+  }
+]}
